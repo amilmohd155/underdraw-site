@@ -1,3 +1,9 @@
+---
+layout: default
+title: Privacy Policy — Underdraw
+permalink: /privacy/
+---
+
 # Privacy Policy — Underdraw
 
 **Effective date:** 5 October 2026
